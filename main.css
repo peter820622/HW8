@@ -1,0 +1,9 @@
+.line{
+    border: 1px solid black;
+}
+
+.checkerboard{
+    border: 3px solid orange;
+    background: yellow;
+    color: black;
+}
